@@ -10,12 +10,12 @@
   "engines": {
     "node": "16.1.0"
   },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Peter-A-Felton/node-express-baseplate.git"
-  },
-  "dependencies": {
-    "express": "^4.17.1"
   },
   "author": "Peter Felton",
   "license": "ISC",
