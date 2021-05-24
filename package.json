@@ -1,0 +1,22 @@
+{
+  "name": "express-baseplate",
+  "version": "0.0.1",
+  "description": "express application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Peter-A-Felton/node-express-baseplate.git"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "author": "Peter Felton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Peter-A-Felton/node-express-baseplate/issues"
+  },
+  "homepage": "https://github.com/Peter-A-Felton/node-express-baseplate#readme"
+}
