@@ -36,7 +36,7 @@ app.get('/ab*cd', function HandlePatterGet(request, response) {
     response.send('Page Pattern Match');
 })
 
-const part = process.env.PORT || 3000;
+const port = process.env.PORT || 3000;
 var server = app.listen(port, function () {
 
     var host = server.address().address
